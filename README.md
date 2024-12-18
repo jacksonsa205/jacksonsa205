@@ -1,8 +1,8 @@
 ## Ola eu sou a Jackson Alves de Sá, programador Fullstack!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonsa205&show_icons=true&theme=algolia&includes_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsa205&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonsa205&show_icons=true&theme=algolia&includes_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsa205&layout=compact&langs_count=16&theme=algolia&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
