@@ -1,11 +1,16 @@
 ## Olá! Eu sou o Jackson Alves de Sá 🖐️
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonsa205&show_icons=true&theme=algolia&includes_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsa205&layout=compact&langs_count=16&theme=algolia&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonsa205&show_icons=true&theme=react&includes_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsa205&layout=compact&langs_count=16&theme=react"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonsa205&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-##
+###
+
+<img src="https://raw.githubusercontent.com/jacksonsa205/jacksonsa205/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div> 
   <a href="https://www.youtube.com/@jacksonalvessa" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
